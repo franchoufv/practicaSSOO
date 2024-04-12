@@ -1,0 +1,5 @@
+directorio=/home/vboxuser/Desktop/PracticaFinal/carpetacsv
+archivo=archivo_01.csv
+ficherolog=ficherolog.txt
+NUM_PROCESOS=5
+SIMULATE_SLEEP=1
